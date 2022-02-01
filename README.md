@@ -155,7 +155,7 @@ function change_color(element){
 
 ## OUTPUT:
 
-![OUTPUT](./paint.png)
+![OUTPUT](/paint.png)
 
 ## Result:
 
